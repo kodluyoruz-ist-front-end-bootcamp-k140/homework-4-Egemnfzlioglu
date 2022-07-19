@@ -1,3 +1,32 @@
+## Odev Netlify Linki
+[Odev](https://picsum.photos/)
+
+
+
+
+
+
+
+## Yardımcı Kaynaklar
+[ReactRouter](https://reactrouter.com/docs/en/v6/getting-started/overview
+)
+
+[ReactNativeDersleri](https://www.youtube.com/watch?v=UkdJXszIRPQ&ab_channel=ReactNativeDersleri
+)
+
+[PROTOTURK](https://www.youtube.com/watch?v=QnH1q-saSeo&ab_channel=PROTOTURK
+)
+
+[Lorem Picsum Photo](https://picsum.photos/)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
