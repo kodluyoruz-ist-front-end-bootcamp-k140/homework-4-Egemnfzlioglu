@@ -1,5 +1,5 @@
 ## Odev Netlify Linki
-[Odev](https://picsum.photos/)
+[Odev](https://62d6b35ce964572b19160656--leafy-florentine-d73dec.netlify.app/)
 
 
 
