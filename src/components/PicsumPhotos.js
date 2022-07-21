@@ -1,7 +1,7 @@
     import React, { useEffect, useState } from "react";
     import { NavLink } from "react-router-dom";
 
-    const FunctionComponent = () => {
+    const PicsumPhotos = () => {
     const [loading, setLoading] = useState(false);
     const [photos, setPhotos] = useState([]);
 
@@ -73,4 +73,4 @@
     return <div>{loading ? "Yükleniyor" : renderPicsum()}</div>;
     };
 
-    export default FunctionComponent;
+    export default PicsumPhotos;

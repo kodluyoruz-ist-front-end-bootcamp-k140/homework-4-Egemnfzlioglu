@@ -1,10 +1,10 @@
 import React from "react";
-import FunctionComponent from '../components/PicsumPhotos';
+import PicsumPhotos from '../components/PicsumPhotos';
 
 const Home = () => {
   return (
     <div>
-      <FunctionComponent/>
+      <PicsumPhotos/>
     </div>
   );
 };
