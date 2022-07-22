@@ -3,6 +3,13 @@
 
 
 
+## BONUS Odev Netlify Linki
+[BONUS Odev Github Linki](https://github.com/Egemnfzlioglu/week_04)
+
+
+[BONUS Odev Netlify Linki](https://62d99242716021106ad3d185--inquisitive-pasca-1ee34b.netlify.app/)
+
+
 
 
 
